@@ -40,7 +40,6 @@ The dataset contains 1,470 employee records and 34 HR variables including:
 - Employee profiles most likely to leave
 
 ##  Recommendations
-Provide actionable HR suggestions such as:
 - improving compensation for at‑risk groups  
 - reducing overtime  
 - revising management practices  
